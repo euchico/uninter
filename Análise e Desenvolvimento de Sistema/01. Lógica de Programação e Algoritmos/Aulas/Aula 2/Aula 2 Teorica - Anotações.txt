@@ -1,0 +1,25 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - AMBIENTE DE DESENVOLVIMENTO ===================================//
+
+> Realizar a instalação do Python
+> Realizar a instalação do PyCharm
+> Acessar o Jupyter Notebook
+
+
+• TEMA 2 - CICLO DE PROCESSAMENTO DE DADOS ===============================//
+
+> Ciclo: Entrada, Processamento e Saída
+> Operações Matemáticas:
+  +  -> Adição
+  -  -> Subtração
+  *  -> Multiplicação
+  /  -> Divisão (com casas decimais)
+  // -> Divisão (somente parte inteira)
+  %  -> Módulo/Resto da Divisão
+  ** -> Potenciação
+> Ordem de precedência
+
+* Primeiros códigos

@@ -1,0 +1,55 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - INTRODUÇÃO À LÓGICA E AOS ALGORITMOS ==========================//
+
+> Lógica (logos) - linguagem racional
+> Maneira pela qual instruções, assertivas e pressupostos sõ organizados num algotitmo 
+  para viabilizar a implantação de um programa (Michaelis, 2020)
+
+> Um algoritmo é dado como uma sequência de passsos a serem realizados para que 
+  determinada tarefa seja concluída, ou um objetivo atingido.
+
+
+• TEMA 2 - SISTEMA DE COMPUTAÇÃO =========================================//
+
+> Surgimento dos computadores mais potentes foi durante a Segunda Guerra Mundial.
+> John Von Neumann é conhecido principalmente por ter formalizado o projeto lógico de um computador.
+  Em sua proposta, sugeriu que as instruções fossem armazenadas na memória do computador. 
+  Até então elas eram lidas de cartões perfurados e executadas, uma a uma. 
+  Armazená-las na memória, para então executá-las, tornaria o computador mais rápido, já que, 
+  no momento da execução, as instruções seriam obtidas com rapidez eletrônica
+> Máquina de Von Neumann: 
+  Memoria, Unidade de controle, Unidade de lógica e aritmética, Acumulador, Entrada e Saída.
+
+> Bynary Digit = Bit -> A menor unidade de armazenamento de dados
+> 8 bits = 1 Byte (B), 1024 Byte = 1 KiloByte (KB) ...
+
+* Filme: O Jogo da Imitação
+
+
+• TEMA 3 - REPRESENTAÇÕES DE ALGORITMOS ==================================//
+
+> Tipos de algoritmos: 
+  Descrição narrativa, Pseudocódigo e Fluxograma
+
+
+• TEMA 4 - LINGUAGEM DE PROGRAMAÇÃO E COMPILADORES =======================//
+
+> Linguagem de Programação é um conjunto de regras com palavras-chave, símbolos 
+  e sequências específicas para escrever algoritmos
+  
+> Compilador, transforma um código em um arquivo binário. O código-fonte é perdido
+  nesse processo.
+> Interpretador, nunca perde o seu código-fonte, ele está sempre presente. O código não é
+  convertido de uma só vez, mas, sim, executado instrução por instrução à medida que o
+  programa vai requisitando.
+  
+  
+• TEMA 5 - LINGUAGEM DE PROGRAMAÇÃO PYTHON ===============================//
+
+> Python criada em 1982 por Guido Van Rossum
+
+(?) Zen do Python
+* Link: python.org.br
