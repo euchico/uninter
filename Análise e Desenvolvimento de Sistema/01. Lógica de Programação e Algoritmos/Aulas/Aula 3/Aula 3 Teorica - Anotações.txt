@@ -1,0 +1,29 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - ESTRUTURA CONDICIONAL =========================================//
+• TEMA 2 - CONDICIONAL SIMPLES E COMPOSTA ================================//
+• TEMA 3 - EXPRESSÕES LÓGICAS E ÁLGEBRA BOOLEANA =========================//
+
+> Operadores lógicos:
+  not -> negação
+  and -> conjunção
+  or  -> disjunção
+  
+> Precedencia dos operadores:
+  1. Parênteses
+  2. Operadores aritméticos de pontenciação ou raiz
+  3. Operadores aritméticos de multiplicação, divisão e módulo
+  4. Operadores aritméticos de adição e subtração
+  5. Operadores relacionais
+  6. Operadores lógicos not
+  7. Operadores lógicos and
+  8. Operadores lógicos or
+  6. Atribuições
+
+
+• TEMA 4 - CONDICIONAIS ANINHADAS ========================================//
+• TEMA 5 - CONDICIONAIS DE MÚLTIPLA ESCOLHA (ELIF) =======================//
+
+
