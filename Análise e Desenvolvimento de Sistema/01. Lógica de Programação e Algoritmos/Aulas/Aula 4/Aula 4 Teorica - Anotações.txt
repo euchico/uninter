@@ -1,0 +1,21 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - ESTRUTURA DE REPETIÇÃO =========================================//
+
+
+• TEMA 2 - ESTRUTURA DE REPETIÇÃO WHILE ================================//
+
+
+• TEMA 3 - CARACTERÍTICAS E RECURSOS AVANÇADOS DE LAÇOS EM PYTHON =========================//
+
+
+• TEMA 4 - ESTRUTURA DE REPETIÇÃO FOR ========================================//
+
+
+• TEMA 5 - ESTRUTURA DE REPETIÇÃO ANINHADA =======================//
+
+
+
+
