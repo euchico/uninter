@@ -1,0 +1,32 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - FUNÇÕES ======================================================= //
+
+> Função: Rotina de código que podem ser executadas quando tem seu nome invocado dentro do programa
+
+> Motivação:
+  - Funções deixam nossos programas mais simples de compreender.
+  - Funções confinam bugs para dentro delas.
+  - Funções tornam programas mais portáveis.
+  - Funções auxiliam no trabalho colaborativo.
+
+
+• TEMA 2 - PARÂMETROS EM FUNÇÕES ========================================= //
+
+> Parâmetro: Dados recebidos pelas funções.
+
+
+• TEMA 3 - ESCOPO DE VARIÁVEIS =========================================== //
+
+> Escopo: É a propriedade que determina onde uma variável pode ser utilizada dentro de um programa.
+
+  
+• TEMA 4 - RETORNO DE VALORES EM FUNÇÕES ================================= //
+
+> Procedimento (Procedure): Uma rotina sem retorno.
+> Função: Uma rotina que retorna um dado a quem a invocou.
+
+
+• TEMA 5 - RECURSO AVANÇADOS COM FUNÇÕES ================================= //
