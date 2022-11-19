@@ -1,0 +1,34 @@
+• CONVERSA INICIAL
+// Sem anotação
+
+
+• TEMA 1 - TUPLAS ======================================================== //
+
+> Estrutura da Dados: É um conjunto de dados organizados de uma maneira específica 
+  na memória do programa.
+
+> Tupla:
+  - Estrutura de dados estática
+  - É imutável
+
+
+• TEMA 2 - LISTAS ======================================================== //
+
+> Lista:
+  - Estrutura de dados dinâmica
+  - Podemos alterar dados e tamanho
+  - Indexadas por valores numéricos inteiros
+
+
+• TEMA 3 - STRINGS E LISTAS DENTRO DE LISTAS ============================= //
+// Sem anotação
+
+ 
+• TEMA 4 - DICIONÁRIOS =================================================== //
+
+> Dicioários:
+  - Estrutura de dados dinâmica
+  - Podemos alterar dados e tamanho
+  - Indexadas por chaves (palavras-chave)
+
+• TEMA 5 - TRABALHANDO COM MÉTODOS EM STRINGS ============================ //
